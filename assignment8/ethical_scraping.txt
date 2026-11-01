@@ -1,0 +1,7 @@
+Task 5: Ethical Web Scraping
+
+1. Wikipedia restricts crawling of areas such as /w/, /api/, /trap/, Special pages, and some deletion, copyright, and administrative pages.
+
+2. Yes. Some bots are completely blocked, while others have specific rules. For example, SemrushBot must wait five seconds between requests.
+
+3. Robots.txt tells automated crawlers which pages they can access. Following these rules reduces server load and respects the website owner’s preferences.
