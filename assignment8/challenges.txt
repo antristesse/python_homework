@@ -1,0 +1,1 @@
+The main challenge was that the URL in the assignment now redirects to a different OWASP project page and no longer displays the Top 10 list. I resolved this by using the current OWASP Top 10:2025 page and locating the ordered list with XPath.
